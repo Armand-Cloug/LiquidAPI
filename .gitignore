@@ -1,0 +1,4 @@
+.env
+__pycache__/
+config.json
+Autre/user.db.sql
